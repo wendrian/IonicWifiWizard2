@@ -1,2 +1,2 @@
 # IonicWifiWizard2
-Test
+Scan, get and push Mac Address detail and RSSI
